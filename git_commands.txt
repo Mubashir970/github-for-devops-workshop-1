@@ -1,0 +1,18 @@
+Id CommandLine
+  -- -----------
+  git show
+  ls
+  git init
+  git status
+  git add testing1 file
+  git add testing1.py
+  git status
+  git commit -m "added testing1 file "
+  git status
+  rm testing.py
+  rm testing1.py
+  ls
+  git status
+  git restore testing1.py
+  git status
+  clear
