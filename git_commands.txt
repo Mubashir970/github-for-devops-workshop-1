@@ -17,4 +17,23 @@ Id CommandLine
   git status
   clear
 
+  git status
+  git add git coomands.txt
+  git add git commands.txt
+  git status
+  git add git commands.txt
+  git add git_commands.txt
+  git commit -m "added git_commands file "
+  git status
+  clear
+  git remote add origin 
+  git remote -v
+  git remote --v
+  git remote -v
+  git remote add origin  https://github.com/Mubashir970/github-for-devops-workshop-1.git
+  git remote -v
+  git remote set-url origin 
+  git status
+  git remote -v
+  git push origin master
 unable to add things from local to web
