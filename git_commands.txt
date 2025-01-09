@@ -16,3 +16,5 @@ Id CommandLine
   git restore testing1.py
   git status
   clear
+
+unable to add things from local to web
